@@ -1,4 +1,4 @@
-Hi 👋 My name is Fabian Rukito
+Fabian Rukito
 ==============================
 
 Software Engineer. Future Polygot.
