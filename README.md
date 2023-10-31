@@ -6,13 +6,13 @@ Software Engineer. Future Polygot.
 
 📍 Based in Puerto Rico 
 
-🦋 I’m currently learning C++ 
+🦋 I’m currently learning Java
 
 🫰 Contact me at rukitoyordan@gmail.com 
 
 🫧 I’m looking to expand my knowledge of AI and cybersecurity measures. 
 
-🌨️ Fun Fact - I speak Intermediate French
+🌨️ Fun Fact - I speak Intermediate French and some Russian
 
 <a href="https://www.twitter.com/rukitoyordan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rukitoyordan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
