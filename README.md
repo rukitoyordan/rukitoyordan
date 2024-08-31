@@ -55,6 +55,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rukitoyordan/rukitoyordan/output/snake.svg" alt="Snake animation" />
-
 ###
