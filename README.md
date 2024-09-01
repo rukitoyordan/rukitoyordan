@@ -1,4 +1,4 @@
-# ☃️ Fabián Pérez-Muñoz
+# ☃️ Aliczio
 
 🥶 [Studying] Software Engineering BS + French Literature CS<br>🦋 Prepping for GRE & DLPTs for French and Russian<br>🪼 Currently learning about Operating Systems<br>🌊 [Upcoming] Space Force Officer <br>❄️ I love rainy days, and wintertime<br>
 
